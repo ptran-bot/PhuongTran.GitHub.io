@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ptran-bot/PhuongTran.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my GitHub Page
+My name is **Phuong Tran** and is a newcomer to GitHub. I am currently working as an analyst for the County of San Diego and is learning Big Data to improve my skillsets. <br /> 
+You can learn more about me and my work experience [here](https://linkedin.com/in/phuong-my-tran)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
